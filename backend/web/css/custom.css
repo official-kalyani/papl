@@ -1,0 +1,20 @@
+input.form-fixer {
+    padding: 1px;
+    
+    width: 50px;
+}
+input.form-fixer-text {
+    padding: 1px;
+    
+    width: 50px;
+}
+form div.required label.control-label:after {
+
+  content:" * ";
+
+  color:red;
+
+}
+.navbar-expand-md .navbar-nav .dropdown-menu {
+    z-index: 99999;
+}
